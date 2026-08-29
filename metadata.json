@@ -1,0 +1,6 @@
+{
+  "name": "ToolVerse AI",
+  "description": "All-in-One Digital Tools Platform - Create, edit, code, design and manage digital work with AI assistants and suite of creative utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
